@@ -1,0 +1,6 @@
+{
+  "name": "Linden Support",
+  "description": "A customer support website with an interactive conversational chatbot for instant order, billing, and account assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
